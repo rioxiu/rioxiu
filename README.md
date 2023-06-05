@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **richardosinulingga@icloud.com**
 
-- ⚡ Fun fact **I always reading a japanese comic when i was boring.**
+- ⚡ Fun fact **I usually read a comic when i was boring.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
