@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://rioxiu.my.id](https://rioxiu.my.id)
 
-- 📫 How to reach me **richardosinulingga@icloud.com**
+- 📫 How to reach me **richardosinulingga@outlook.com**
 
 - ⚡ Fun fact **I usually read a comic when i was boring.**
 
