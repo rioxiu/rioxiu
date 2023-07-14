@@ -4,9 +4,9 @@
 <img align="right" alt="animated-code" width="400" src="https://thumbs.gfycat.com/PointedFrequentImperatorangel-size_restricted.gif"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riosiu&label=Profile%20views&color=0e75b6&style=flat" alt="riosiu" /> </p>
 
-<p align="left"> <a href="https://twitter.com/rioxiu_" target="blank"><img src="https://img.shields.io/twitter/follow/riosiu1_?logo=twitter&style=for-the-badge" alt="riosiu1_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/rioxiu_" target="blank"><img src="https://img.shields.io/twitter/follow/rioxiu_?logo=twitter&style=for-the-badge" alt="riosiu1_" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://richardsiu.my.id](https://richardsiu.my.id)
+- 👨‍💻 All of my projects are available at [https://rioxiu.my.id](https://rioxiu.my.id)
 
 - 📫 How to reach me **richardosinulingga@icloud.com**
 
