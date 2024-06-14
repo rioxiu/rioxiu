@@ -1,6 +1,6 @@
 <!-- [![MasterHead]()](https://rishavchanda.io) -->
 <h1 align="center">Hi 👋, I'm Richardo Sinulingga</h1>
-<h3 align="center">A young man who is starting out and learning coding.</h3>
+<h3 align="center">A man who is starting out and learning coding.</h3>
 <img align="right" alt="animated-code" width="400" src="https://thumbs.gfycat.com/PointedFrequentImperatorangel-size_restricted.gif"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riosiu&label=Profile%20views&color=0e75b6&style=flat" alt="riosiu" /> </p>
 
