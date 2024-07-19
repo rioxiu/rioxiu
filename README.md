@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/rioxiu_" target="blank"><img src="https://img.shields.io/twitter/follow/rioxiu_?logo=twitter&style=for-the-badge" alt="riosiu1_" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://rioxiu.my.id](https://rioxiu.my.id)
+- 👨‍💻 All of my projects are available at [https://richardosinulingga.site](https://richardosinulingga.site)
 
 - 📫 How to reach me **richardosinulingga@outlook.com**
 
